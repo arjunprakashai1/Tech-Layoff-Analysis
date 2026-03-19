@@ -1,0 +1,29 @@
+company,layoff_date,jobs_cut,pct_workforce_cut,sector,country,ai_cited,company_revenue_2025_bn,pre_layoff_headcount,simultaneous_ai_investment_bn,layoffs_2024,layoffs_2025,region,layoff_size_category,stock_reaction
+Amazon,15-01-2026,16000,2.7,E-Commerce/Cloud,USA,FALSE,716.9,1550000,100,4000,14000,North America,Mega (5K+),Positive
+Block,28-02-2026,4000,40,Fintech,USA,TRUE,22.4,10000,2,0,1000,North America,Large (2K-5K),Positive
+Meta Reality Labs,20-01-2026,1500,10,Social Media/VR,USA,TRUE,164.5,79000,115,0,500,North America,Medium (500-2K),Positive
+Atlassian,14-03-2026,1600,10,Enterprise Software,Australia,TRUE,5.1,16000,0.5,0,500,Asia-Pacific,Medium (500-2K),Positive
+Oracle,01-02-2026,30000,15,Enterprise Software,USA,TRUE,52.9,200000,40,6000,10000,North America,Mega (5K+),Positive
+Salesforce,10-01-2026,1000,1.4,CRM/SaaS,USA,TRUE,37.9,72000,5,1000,1000,North America,Medium (500-2K),Positive
+Autodesk,25-01-2026,1000,9,Design Software,USA,FALSE,5.9,11000,0.3,500,1200,North America,Medium (500-2K),Positive
+eBay,28-01-2026,800,5,E-Commerce,USA,TRUE,10.3,11000,0.8,1000,1000,North America,Medium (500-2K),Positive
+Pinterest,10-02-2026,675,4,Social Media,USA,TRUE,3.6,3700,0.4,1500,200,North America,Medium (500-2K),Positive
+Ericsson,15-01-2026,1600,12,Telecommunications,Sweden,FALSE,24.3,105000,0.2,3000,5000,Europe,Medium (500-2K),Positive
+ASML,20-01-2026,1700,3.4,Semiconductors,Netherlands,FALSE,30.8,42000,0,0,0,Europe,Medium (500-2K),Negative
+ams OSRAM,05-02-2026,2000,12,Semiconductors,Austria,FALSE,3.2,21000,0,0,500,Europe,Medium (500-2K),Positive
+Ocado,30-01-2026,1000,7,Grocery Tech,UK,TRUE,3.8,14000,0.5,0,0,Europe,Medium (500-2K),Positive
+WiseTech Global,20-02-2026,2000,25,Logistics Software,Australia,TRUE,3.2,8000,0.3,0,0,Asia-Pacific,Medium (500-2K),Positive
+Cisco,15-02-2026,6000,7,Networking/Cybersecurity,USA,FALSE,56.9,85000,2,4200,6000,North America,Mega (5K+),Negative
+T-Mobile,02-02-2026,363,0.1,Telecommunications,USA,FALSE,80,71000,0,0,5000,North America,Small (<500),Negative
+SK Battery America,16-03-2026,958,37.3,EV Batteries,USA,FALSE,8.4,2566,0,0,0,North America,Medium (500-2K),Negative
+Walgreens,11-03-2026,1000,0.5,Retail Pharmacy,USA,FALSE,140,315000,0,3000,2000,North America,Medium (500-2K),Negative
+Telefonica,15-01-2026,5000,5,Telecommunications,Spain,FALSE,44.5,100000,0,0,3000,Europe,Large (2K-5K),Positive
+xAI,25-02-2026,50,2,AI Research,USA,TRUE,0,2500,6,0,0,North America,Small (<500),Neutral
+Palo Alto Networks,18-02-2026,500,2,Cybersecurity,USA,FALSE,8,15000,0.5,0,500,North America,Small (<500),Positive
+Livspace,10-02-2026,1000,15,Interior Design Tech,India,TRUE,0.3,7000,0.1,0,0,Asia-Pacific,Medium (500-2K),Neutral
+General Motors Tech,22-01-2026,1000,2,Automotive Tech,USA,FALSE,180,150000,3,500,1500,North America,Medium (500-2K),Negative
+Workday,28-01-2026,2200,8.5,Enterprise SaaS,USA,TRUE,8.5,25800,1.5,1750,1750,North America,Large (2K-5K),Positive
+Ergo Insurance,01-03-2026,200,2,Insurance,Germany,TRUE,0,9000,0.2,0,0,Europe,Small (<500),Neutral
+Algoma Steel,07-03-2026,1000,20,Manufacturing,Canada,FALSE,2.8,5000,0,0,0,North America,Medium (500-2K),Negative
+Meta Platforms (Planned),13-03-2026,16000,20,Social Media/AI,USA,TRUE,164.5,79000,115,0,0,North America,Mega (5K+),Positive
+Algoma Steel,23-03-2026,1000,20,Manufacturing,Canada,FALSE,2.8,5000,0,0,0,North America,Medium (500-2K),Negative
