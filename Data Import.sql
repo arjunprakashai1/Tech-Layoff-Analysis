@@ -6,7 +6,7 @@ USE layoffs;
 -- creating layoffs column
 CREATE TABLE layoffs(
 	company VARCHAR(50),
-    layoff_date VARCHAR(20),
+    layoff_date VARCHAR(20), -- VARCHAR is used here to prevent any errors while Loading the data.
     jobs_cut INT,
     pct_workforce_cut INT,
     sector VARCHAR(50),
